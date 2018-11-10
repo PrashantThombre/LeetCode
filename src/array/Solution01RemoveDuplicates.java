@@ -1,6 +1,6 @@
 package array;
 
-public class Solution {
+public class Solution01RemoveDuplicates {
 
 	/*
 	 * Link:
