@@ -56,8 +56,6 @@ public class Solution05Intersection_of_Two_Arrays_II {
 		List<Integer> result = new ArrayList<>();
 
 		Map<Integer, Integer> map1 = new HashMap<>();
-		Map<Integer, Integer> map2 = new HashMap<>();
-
 		for (int t : nums1) {
 			if (map1.containsKey(t)) {
 				map1.put(t, map1.get(t) + 1);
