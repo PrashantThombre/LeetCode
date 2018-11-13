@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Solution09ValidSudoku {
+public class Solution09RotateImage {
 	/*
 	 * Link:
 	 * https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/
